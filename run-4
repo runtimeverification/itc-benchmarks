@@ -1,0 +1,4 @@
+#!/bin/sh
+
+PGM=04.wo_Defects_Cpp/04_wo_Defects_Cpp
+$PGM 888888
