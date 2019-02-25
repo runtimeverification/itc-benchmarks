@@ -1,0 +1,7 @@
+#!/bin/sh
+
+PGM=03.w_Defects_Cpp/03_w_Defects_Cpp
+$PGM 001001
+$PGM 001002
+$PGM 001003
+$PGM 001004
